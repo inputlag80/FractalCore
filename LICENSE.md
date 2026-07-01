@@ -1,133 +1,97 @@
-# ⚡ FractalCore – Impulse-Fractal Hybrid AI Architecture
+IMPULSE-FRACTAL PUBLIC LICENSE
+Version 1.0, July 1, 2026
 
-**A radical rethinking of AI systems: from monolithic black boxes to self-organizing, physics‑driven, brain‑inspired intelligence.**
+Copyright (c) 2026 inputlag80 (https://github.com/inputlag80/FractalCore)
 
-> **Author:** [inputlag80](https://github.com/inputlag80)  
-> **Repository:** [github.com/inputlag80/FractalCore](https://github.com/inputlag80/FractalCore)  
-> **License:** Impulse-Fractal Public License (IFPL) v1.0 – free for non‑commercial use, requires attribution, accepts voluntary contributions.
-
----
-
-## 🧠 What is FractalCore?
-
-FractalCore is not another LLM or transformer variant. It is a **new computational paradigm** that replaces the current “bigger is better” approach with a **fractal, modular, and physically grounded architecture**.
-
-Instead of training one giant neural network on petabytes of data, FractalCore splits knowledge into **millions of tiny, specialized micro‑models** (like brain mini‑columns). These micro‑blocks communicate via **impulse‑based “lightning” strikes**, following the laws of physics (Ohm's law, damped oscillations, conservation of energy) and biological principles (myelination, synaptic plasticity).
-
-The result:
-- **4–6× higher quality** than monolithic models of the same knowledge capacity.
-- **Drastically lower energy consumption** (runs on edge devices, not supercomputers).
-- **No hallucinations** – rigid local graphs prevent nonsense.
-- **True creativity** – controlled chaos via branching impulses (the “storm” mode).
+This license is a legal agreement between the Author (inputlag80) and any person or entity (the "User") who accesses the Software (as defined below) and wishes to use, modify, or distribute it.
 
 ---
 
-## 🔥 The Core Ideas (in plain language)
+### 1. DEFINITIONS
 
-### 1. **Fractal Decomposition** – from one monster to a million specialists
-Instead of a single model that knows a little about everything, we create a **tree of micro‑models**, each responsible for a tiny, well‑defined piece of knowledge.  
-Like a brain: billions of neurons, each simple, but together they form consciousness.
+1.1. "Software" means the source code, executable files, documentation, architectural descriptions, and any other materials related to the project hosted at https://github.com/inputlag80/FractalCore.
 
-### 2. **Hybrid Native Architecture** – graph + neural network in one
-We don't bolt a graph onto a pre‑trained LLM. We **train new hybrid models** from scratch, where the latent space is both vector (neural) and structured (graph).  
-This gives us the **best of both worlds**: flexibility of neural nets + deterministic logic of graphs.
+1.2. "Derivative Work" means any modification, adaptation, translation, compilation, or other work based on the Software or any part thereof.
 
-### 3. **The Lightning Principle** – impulse as the carrier of thought
-A query is not processed sequentially like a text prompt. Instead, it creates a **high‑voltage impulse** that travels through the fractal tree.
-- A **thick main bolt** hits the core context (accuracy).
-- **Side branches** (micro‑discharges) explore adjacent knowledge areas, adding creativity and unexpected connections.
-This mimics how real lightning finds the path of least resistance – and so does the system.
+1.3. "Commercial Use" means any use of the Software or Derivative Works for the purpose of direct or indirect monetary gain, including but not limited to: sale, licensing, paid access, integration into commercial products, use in advertising, or use by a legal entity whose budget exceeds that of personal use.
 
-### 4. **Physics‑Driven Control** – Ohm's law & damped oscillations
-The system uses **physical analogs** to control itself:
-- **Resistance** (Ohm's law) – prevents irrelevant micro‑blocks from firing.
-- **Damped oscillation** – the “storm” of iterations decays naturally, stopping when the charge is spent.
-- **Conservation of energy** – every action (query) generates a reaction (answer) of equal “strength”.
+1.4. "Author" means inputlag80 (and any designated successors).
 
-### 5. **Dynamic Conductance Landscape** – continuous adaptation (the “morning insight”)
-Instead of hard‑coding a static probability distribution, the system **learns from the user in real time**.
-- First answers are generic (cold start).
-- Over time, frequently used paths become **“myelinated”** – their resistance drops, making future answers faster, more precise, and personalized.
-- This is a **digital analog of brain plasticity**.
+1.5. "Voluntary Fee" means a contribution that the User may optionally pay to the Author in support of the project.
 
 ---
 
-## 🧩 The Three (Plus One) Modes of Thought
+### 2. GRANT OF RIGHTS
 
-### A. **Standard Mode** – direct impulse
-A single main strike to the core tree. Fast, accurate, no frills. Used for simple queries.
+2.1. The Author hereby grants to the User a worldwide, royalty‑free, non‑exclusive, perpetual license to:
 
-### B. **Reasoning Mode** – multiple strikes in the same area
-Several impulses hit the same region from slightly different angles, refining the answer like human deliberation. Depth over breadth.
-
-### C. **Research Mode (The Storm)** – cascading branching
-The main strike splits into micro‑discharges, and each of those becomes a new source of strikes. This creates a chain reaction that explores deep, non‑obvious connections – perfect for scientific discovery.
-
-### D. **Hybrid Mode: Reasoning‑Research Cascade (The “Storm Surge”)** – *new!*
-This combines breadth and depth into a **multi‑stage cascade**:
-
-1. **Main strike** – initial impulse to the core.
-2. **Branching micro‑discharges** – first‑level exploration (like Research mode).
-3. **Secondary strikes** – each micro‑discharge generates a new main strike *into its own region*, repeating for 10–30 iterations (depending on the available “charge”).
-4. **Depth amplification** – finally, multiple repeated strikes (Reasoning mode) are applied *within each explored region* to refine and cross‑validate the findings. The number of repeats is proportional to the remaining voltage.
-
-**Parameters** (automatically adjusted by the query's energy):
-- `Q` – total charge (complexity)
-- `B` – branching factor
-- `D` – depth of cascading
-- `R` – repeats per region
-
-**Result:** Broad context + deep verification – ideal for hypothesis generation, system design, and any task requiring both exploration and validation.
+- use the Software for personal, educational, research, and non‑commercial purposes;
+- copy and distribute the Software in unmodified form, provided that this license accompanies it;
+- modify the Software and create Derivative Works, subject to the conditions in Section 3.
 
 ---
 
-## 🛠 Current Status
+### 3. CONDITIONS AND RESTRICTIONS
 
-This repository currently contains **the conceptual blueprint** – no working code yet.  
-The theory is complete and has been independently evaluated by deep‑reasoning AI models with an average score of **184.70** (on a scale where 100 = transformer breakthrough).  
-The implementation is a monumental engineering task – but every challenge is solvable except the fundamental limits of silicon (which will be overcome by future hardware).
+3.1. **Attribution**  
+In any use, modification, or distribution of the Software (including Derivative Works), the User must explicitly credit the Author and provide a link to the original repository. The credit must read:  
+"Based on FractalCore by inputlag80 (https://github.com/inputlag80/FractalCore)".
 
----
+3.2. **Non‑Commercial Use Only**  
+The Software and any Derivative Works may not be used for Commercial Use without the prior written consent of the Author. Commercial Use is permitted only under a separate paid license agreement.
 
-## 🧩 How You Can Contribute
+3.3. **Prohibition on Training Commercial AI Systems**  
+The Software, its architectural principles, algorithms, data, or any part thereof shall not be used to train, distill, fine‑tune, or enhance any artificial neural network, machine learning system, or other AI model if such training is performed by a commercial entity or for commercial purposes.
 
-- ⭐ **Star** the repo – it helps others find this idea.
-- 📖 **Read and discuss** – open an issue if something is unclear.
-- 🧪 **Prototype** – if you're a developer, try to build a small local version of a micro‑block cluster.
-- 💬 **Spread the word** – share with researchers who care about edge AI, neuromorphic computing, or alternative architectures.
-
----
-
-## 📜 License
-
-This project is released under the **Impulse-Fractal Public License (IFPL) v1.0**.
-
-- ✅ **Open source** – the code is always visible.
-- ✅ **Free for non‑commercial use** – individuals, students, and researchers can use it without payment.
-- ✅ **Attribution required** – you must credit the original author and link back to this repo.
-- ⚠️ **Commercial use prohibited** – for commercial applications, a separate paid license is needed.
-- 💰 **Voluntary contribution** – you can support the project with a donation of any amount, but you're never obliged.
-
-See the full license texts:  
-- [LICENSE](./LICENSE) (English)  
-- [LICENSE.ru](./LICENSE.ru) (Russian)
+3.4. **Openness Requirement**  
+Any Derivative Work must be distributed under the terms of this same license (IFPL v1.0 or later) and must remain open source. It is prohibited to convert the Software or Derivative Works into closed, proprietary software.
 
 ---
 
-## 🙏 Acknowledgements
+### 4. VOLUNTARY FEE
 
-This architecture was born from a spontaneous 30‑minute brainstorming session, fueled by curiosity, analogy‑driven thinking, and a refusal to accept the status quo.  
-Special thanks to all AI models that validated the concept – you helped turn an intuition into a formal theory.
+4.1. The Voluntary Fee is not a condition for exercising the rights granted in Section 2.  
 
----
+4.2. The User may, at their discretion, contribute any amount to the Author as a gesture of support. The amount and method of payment are specified in the repository.
 
-## 📫 Contact & Links
-
-- Author: [inputlag80](https://github.com/inputlag80)  
-- Repository: [github.com/inputlag80/FractalCore](https://github.com/inputlag80/FractalCore)  
-- Issues / suggestions: Open an issue on GitHub.
+4.3. Failure to pay the fee does not affect the User's rights to use the Software.
 
 ---
 
-> *“The most beautiful solutions are the ones that seem simple after they are explained.”*  
-> – FractalCore manifesto
+### 5. PROHIBITED ACTIONS
+
+5.1. Removing, altering, or hiding copyright notices or this license text is forbidden.
+
+5.2. Using the Software to create, promote, or distribute illegal content, malicious code, or infringe on third‑party rights is prohibited.
+
+5.3. Impersonating the Author or using the Author's name without explicit permission is prohibited.
+
+---
+
+### 6. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+
+6.1. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6.2. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+### 7. TERMINATION
+
+7.1. This license is perpetual, but it may be terminated by the Author if the User materially breaches any of the conditions in Section 3.
+
+7.2. Upon termination, the User must cease all use of the Software and delete all copies.
+
+---
+
+### 8. MISCELLANEOUS
+
+8.1. This license is governed by the principles of international copyright and open‑source licensing, without reference to any particular national jurisdiction. The parties agree that any disputes shall be resolved through good‑faith negotiation.
+
+8.2. If any provision of this license is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+8.3. Any amendments must be in writing and published by the Author in the official repository.
+
+---
+
+By downloading, copying, or using this Software, the User accepts the terms of this license.
